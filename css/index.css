@@ -1,0 +1,21 @@
+.contenedor{
+    width: 390px;
+    height: 844px;
+    
+}
+.img1{
+    position: relative ;
+
+}
+.img2{
+    position: absolute;
+}
+.img3{
+    position: relative;
+    top: 27rem;
+}
+span{
+    position: absolute;
+    top: 80rem;
+    left: 31rem;
+}

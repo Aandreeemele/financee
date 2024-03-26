@@ -1,0 +1,52 @@
+.cn{
+    border: 1px solid red;
+    width: 390px;
+    height: 844px;
+}
+.sk8{
+    position: absolute;
+    top: 2rem;
+    left: 34rem;
+    font-size: 1.5rem;
+    color: blueviolet;
+}
+
+.i1{
+    position: static;
+}
+.i2{
+    position: relative;
+    width: 37.5em;
+}
+.i4{
+    position: absolute;
+    top: 45rem;
+    left: 0;
+}
+.i3{
+width: 20rem;
+position: absolute;
+top: 70rem;
+left: 10rem;
+}
+.ng{
+    position: absolute;
+    top: 50rem;
+    left: 9rem;
+    font-size: 2.5rem;
+    color: blueviolet;
+}
+.t1{
+    position: absolute;
+    top: 54rem;
+    left: 4rem;
+    font-size: 2rem;
+    color: rgb(79, 78, 77);
+}
+.as4{
+    position: absolute;
+    top: 56rem;
+    left: 10rem;
+    font-size: 2rem;
+    color: rgb(79, 78, 77);  
+}
